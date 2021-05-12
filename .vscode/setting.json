@@ -1,0 +1,12 @@
+{
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnSave": true,
+    "prettier.semi": false,
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+  
