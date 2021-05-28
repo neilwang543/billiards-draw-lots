@@ -1,5 +1,5 @@
 // 地图key
-export const MapKey = 'F7CBZ-VMSEF-Q7PJF-NM6SG-2MLVV-IDBMJ'
+export const MapKey = 'SUJBZ-ZX2CU-QZ5V2-B274Q-5TKZO-QDB5E'
 
 // 格式化时间
 export const dateFormatToMin = 'YYYY-MM-DD HH:mm'

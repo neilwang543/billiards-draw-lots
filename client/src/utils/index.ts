@@ -6,8 +6,8 @@ export {
   calNum,
   compareDateRange,
   // calDurationByParticipants,
-  // returnStatusName,
-  // returnStyleByStatus,
+  returnStatusName,
+  returnStyleByStatus,
 } from './dataTrans'
 export { subscribeInfo } from './subscribe'
 export { chooseImg, uploadImg } from './upload'
